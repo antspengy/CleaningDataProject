@@ -11,12 +11,12 @@ Samsung Galaxy S smartphone by 30 subjects undertaking 6 different activities.
 The first two columns of the data set show the subject ID and the activity.
 
 Variables - Descriptions
-subject	-	an integer between 1 and 30 representing the id of the subject
+subject	- an integer between 1 and 30 representing the id of the subject
 activity - a factor field showing which of the 6 activities were being undertaken. 
-		-  allowed values were (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LYING)
-tbodyaccelerometermeanx	 - a number between -1 and 1 showing the average value of the tbodyaccelerometermeanx variable
-tbodyaccelerometermeany	 - a number between -1 and 1 showing the average value of the tbodyaccelerometermeany variable
-tbodyaccelerometermeanz	 - a number between -1 and 1 showing the average value of the tbodyaccelerometermeanz variable
+	Allowed values were (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LYING)
+tbodyaccelerometermeanx	- a number between -1 and 1 showing the average value of the tbodyaccelerometermeanx variable
+tbodyaccelerometermeany	- a number between -1 and 1 showing the average value of the tbodyaccelerometermeany variable
+tbodyaccelerometermeanz	- a number between -1 and 1 showing the average value of the tbodyaccelerometermeanz variable
 tbodyaccelerometerstandarddeviationx	 - a number between -1 and 1 showing the average value of the tbodyaccelerometerstandarddeviationx variable
 tbodyaccelerometerstandarddeviationy	 - a number between -1 and 1 showing the average value of the tbodyaccelerometerstandarddeviationy variable
 tbodyaccelerometerstandarddeviationz	 - a number between -1 and 1 showing the average value of the tbodyaccelerometerstandarddeviationz variable
