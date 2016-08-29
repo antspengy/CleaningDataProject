@@ -15,68 +15,132 @@ subject	- an integer between 1 and 30 representing the id of the subject
 activity - a factor field showing which of the 6 activities were being undertaken. 
 	Allowed values were (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LYING)
 tbodyaccelerometermeanx	- a number between -1 and 1 showing the average value of the tbodyaccelerometermeanx variable
+
 tbodyaccelerometermeany	- a number between -1 and 1 showing the average value of the tbodyaccelerometermeany variable
+
 tbodyaccelerometermeanz	- a number between -1 and 1 showing the average value of the tbodyaccelerometermeanz variable
+
 tbodyaccelerometerstandarddeviationx	 - a number between -1 and 1 showing the average value of the tbodyaccelerometerstandarddeviationx variable
+
 tbodyaccelerometerstandarddeviationy	 - a number between -1 and 1 showing the average value of the tbodyaccelerometerstandarddeviationy variable
+
 tbodyaccelerometerstandarddeviationz	 - a number between -1 and 1 showing the average value of the tbodyaccelerometerstandarddeviationz variable
+
 tgravityaccelerometermeanx	 - a number between -1 and 1 showing the average value of the tgravityaccelerometermeanx variable
+
 tgravityaccelerometermeany	 - a number between -1 and 1 showing the average value of the tgravityaccelerometermeany variable
+
 tgravityaccelerometermeanz	 - a number between -1 and 1 showing the average value of the tgravityaccelerometermeanz variable
+
 tgravityaccelerometerstandarddeviationx	 - a number between -1 and 1 showing the average value of the tgravityaccelerometerstandarddeviationx variable
+
 tgravityaccelerometerstandarddeviationy	 - a number between -1 and 1 showing the average value of the tgravityaccelerometerstandarddeviationy variable
+
 tgravityaccelerometerstandarddeviationz	 - a number between -1 and 1 showing the average value of the tgravityaccelerometerstandarddeviationz variable
+
 tbodyaccelerometerjerkmeanx	 - a number between -1 and 1 showing the average value of the tbodyaccelerometerjerkmeanx variable
+
 tbodyaccelerometerjerkmeany	 - a number between -1 and 1 showing the average value of the tbodyaccelerometerjerkmeany variable
+
 tbodyaccelerometerjerkmeanz	 - a number between -1 and 1 showing the average value of the tbodyaccelerometerjerkmeanz variable
+
 tbodyaccelerometerjerkstandarddeviationx	 - a number between -1 and 1 showing the average value of the tbodyaccelerometerjerkstandarddeviationx variable
+
 tbodyaccelerometerjerkstandarddeviationy	 - a number between -1 and 1 showing the average value of the tbodyaccelerometerjerkstandarddeviationy variable
+
 tbodyaccelerometerjerkstandarddeviationz	 - a number between -1 and 1 showing the average value of the tbodyaccelerometerjerkstandarddeviationz variable
+
 tbodygyroscopemeanx	 - a number between -1 and 1 showing the average value of the tbodygyroscopemeanx variable
+
 tbodygyroscopemeany	 - a number between -1 and 1 showing the average value of the tbodygyroscopemeany variable
+
 tbodygyroscopemeanz	 - a number between -1 and 1 showing the average value of the tbodygyroscopemeanz variable
 tbodygyroscopestandarddeviationx	 - a number between -1 and 1 showing the average value of the tbodygyroscopestandarddeviationx variable
+
 tbodygyroscopestandarddeviationy	 - a number between -1 and 1 showing the average value of the tbodygyroscopestandarddeviationy variable
+
 tbodygyroscopestandarddeviationz	 - a number between -1 and 1 showing the average value of the tbodygyroscopestandarddeviationz variable
+
 tbodygyroscopejerkmeanx	 - a number between -1 and 1 showing the average value of the tbodygyroscopejerkmeanx variable
+
 tbodygyroscopejerkmeany	 - a number between -1 and 1 showing the average value of the tbodygyroscopejerkmeany variable
+
 tbodygyroscopejerkmeanz	 - a number between -1 and 1 showing the average value of the tbodygyroscopejerkmeanz variable
+
 tbodygyroscopejerkstandarddeviationx	 - a number between -1 and 1 showing the average value of the tbodygyroscopejerkstandarddeviationx variable
+
 tbodygyroscopejerkstandarddeviationy	 - a number between -1 and 1 showing the average value of the tbodygyroscopejerkstandarddeviationy variable
+
 tbodygyroscopejerkstandarddeviationz	 - a number between -1 and 1 showing the average value of the tbodygyroscopejerkstandarddeviationz variable
+
 tbodyaccelerometermagmean	 - a number between -1 and 1 showing the average value of the tbodyaccelerometermagmean variable
+
 tbodyaccelerometermagstandarddeviation	 - a number between -1 and 1 showing the average value of the tbodyaccelerometermagstandarddeviation variable
+
 tgravityaccelerometermagmean	 - a number between -1 and 1 showing the average value of the tgravityaccelerometermagmean variable
+
 tgravityaccelerometermagstandarddeviation	 - a number between -1 and 1 showing the average value of the tgravityaccelerometermagstandarddeviation variable
+
 tbodyaccelerometerjerkmagmean	 - a number between -1 and 1 showing the average value of the tbodyaccelerometerjerkmagmean variable
+
 tbodyaccelerometerjerkmagstandarddeviation	 - a number between -1 and 1 showing the average value of the tbodyaccelerometerjerkmagstandarddeviation variable
+
 tbodygyroscopemagmean	 - a number between -1 and 1 showing the average value of the tbodygyroscopemagmean variable
+
 tbodygyroscopemagstandarddeviation	 - a number between -1 and 1 showing the average value of the tbodygyroscopemagstandarddeviation variable
+
 tbodygyroscopejerkmagmean	 - a number between -1 and 1 showing the average value of the tbodygyroscopejerkmagmean variable
+
 tbodygyroscopejerkmagstandarddeviation	 - a number between -1 and 1 showing the average value of the tbodygyroscopejerkmagstandarddeviation variable
+
 fbodyaccelerometermeanx	 - a number between -1 and 1 showing the average value of the fbodyaccelerometermeanx variable
+
 fbodyaccelerometermeany	 - a number between -1 and 1 showing the average value of the fbodyaccelerometermeany variable
+
 fbodyaccelerometermeanz	 - a number between -1 and 1 showing the average value of the fbodyaccelerometermeanz variable
+
 fbodyaccelerometerstandarddeviationx	 - a number between -1 and 1 showing the average value of the fbodyaccelerometerstandarddeviationx variable
+
 fbodyaccelerometerstandarddeviationy	 - a number between -1 and 1 showing the average value of the fbodyaccelerometerstandarddeviationy variable
+
 fbodyaccelerometerstandarddeviationz	 - a number between -1 and 1 showing the average value of the fbodyaccelerometerstandarddeviationz variable
+
 fbodyaccelerometerjerkmeanx	 - a number between -1 and 1 showing the average value of the fbodyaccelerometerjerkmeanx variable
+
 fbodyaccelerometerjerkmeany	 - a number between -1 and 1 showing the average value of the fbodyaccelerometerjerkmeany variable
+
 fbodyaccelerometerjerkmeanz	 - a number between -1 and 1 showing the average value of the fbodyaccelerometerjerkmeanz variable
+
 fbodyaccelerometerjerkstandarddeviationx	 - a number between -1 and 1 showing the average value of the fbodyaccelerometerjerkstandarddeviationx variable
+
 fbodyaccelerometerjerkstandarddeviationy	 - a number between -1 and 1 showing the average value of the fbodyaccelerometerjerkstandarddeviationy variable
+
 fbodyaccelerometerjerkstandarddeviationz	 - a number between -1 and 1 showing the average value of the fbodyaccelerometerjerkstandarddeviationz variable
+
 fbodygyroscopemeanx	 - a number between -1 and 1 showing the average value of the fbodygyroscopemeanx variable
+
 fbodygyroscopemeany	 - a number between -1 and 1 showing the average value of the fbodygyroscopemeany variable
+
 fbodygyroscopemeanz	 - a number between -1 and 1 showing the average value of the fbodygyroscopemeanz variable
+
 fbodygyroscopestandarddeviationx	 - a number between -1 and 1 showing the average value of the fbodygyroscopestandarddeviationx variable
+
 fbodygyroscopestandarddeviationy	 - a number between -1 and 1 showing the average value of the fbodygyroscopestandarddeviationy variable
+
 fbodygyroscopestandarddeviationz	 - a number between -1 and 1 showing the average value of the fbodygyroscopestandarddeviationz variable
+
 fbodyaccelerometermagmean	 - a number between -1 and 1 showing the average value of the fbodyaccelerometermagmean variable
+
 fbodyaccelerometermagstandarddeviation	 - a number between -1 and 1 showing the average value of the fbodyaccelerometermagstandarddeviation variable
+
 fbodybodyaccelerometerjerkmagmean	 - a number between -1 and 1 showing the average value of the fbodybodyaccelerometerjerkmagmean variable
+
 fbodybodyaccelerometerjerkmagstandarddeviation	 - a number between -1 and 1 showing the average value of the fbodybodyaccelerometerjerkmagstandarddeviation variable
+
 fbodybodygyroscopemagmean	 - a number between -1 and 1 showing the average value of the fbodybodygyroscopemagmean variable
+
 fbodybodygyroscopemagstandarddeviation	 - a number between -1 and 1 showing the average value of the fbodybodygyroscopemagstandarddeviation variable
+
 fbodybodygyroscopejerkmagmean	 - a number between -1 and 1 showing the average value of the fbodybodygyroscopejerkmagmean variable
+
 fbodybodygyroscopejerkmagstandarddeviation	 - a number between -1 and 1 showing the average value of the fbodybodygyroscopejerkmagstandarddeviation variable
